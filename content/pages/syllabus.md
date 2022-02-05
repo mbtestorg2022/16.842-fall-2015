@@ -66,34 +66,309 @@ Grading
 
 The grading will occur on the letter scale A-F following standard MIT grading policy (A is the best) and on the 1–6 grading scale at EPFL. The grade conversion table below shows the corresponding grades in the different grading systems. The Northern America scale applies at MIT. The EPFL scale obviously applies at EPFL.
 
-| **EPFL Scale** | 6 | 5.5 | 5 | 4.5 | 4 | 3.5 | 3 | 2.5 | 2 | 1.5 | 1 | N/A |
-| **North America Scale** | A | A- | B | B- | C | C- | D | F | F | F | F | Absent |
-| **ECTS Scale** | A | B | C | D | E | F | F | F | F | F | F | Absent 
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**EPFL Scale**
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+5.5
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+4.5
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+2.5
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1.5
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**North America Scale**
+{{< tdclose >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+A-
+{{< tdclose >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+B-
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+C-
+{{< tdclose >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+Absent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**ECTS Scale**
+{{< tdclose >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+E
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+Absent
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The grade itself will be composed as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Group Assignments A1-A4 (Total of 4; 12.5% Each) | 50% |
-| Group Assignment A5 (PDR Presentation) | 20% |
-| Written Quiz | 10% |
-| Oral Exam (Incl. 2-page Reflective Memo) | 10% |
-| Active Class Participation[5]({{< baseurl >}}/pages/syllabus#five) | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Assignments A1-A4 (Total of 4; 12.5% Each)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Assignment A5 (PDR Presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Exam (Incl. 2-page Reflective Memo)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Class Participation[5]({{< baseurl >}}/pages/syllabus#five)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------
 
 There will be the following assignments in this class:
 
-| ASSIGNMENTS | TOPICS | WEIGHTS |
-| --- | --- | --- |
-| A1 (Group) | Team Formation, Definitions, Stakeholders, Concept of Operations (CONOPS) | 12.5% |
-| A2 (Group) | Requirements Definition and Analysis Margins Allocation | 12.5% |
-| A3 (Group) | System Architecture, Concept Generation | 12.5% |
-| A4 (Group) | Tradespace Exploration, Concept Selection | 12.5% |
-| A5 (Group) | Preliminary Design Review (PDR) Package and Presentation | 20% |
-| Quiz (Individual) | Written Online Quiz | 10% |
-| Oral Exam (Individual) | 20-minute Oral Exam with Instructor and 2-page reflective memorandum | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A1 (Group)
+{{< tdclose >}}
+{{< tdopen >}}
+Team Formation, Definitions, Stakeholders, Concept of Operations (CONOPS)
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A2 (Group)
+{{< tdclose >}}
+{{< tdopen >}}
+Requirements Definition and Analysis Margins Allocation
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A3 (Group)
+{{< tdclose >}}
+{{< tdopen >}}
+System Architecture, Concept Generation
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A4 (Group)
+{{< tdclose >}}
+{{< tdopen >}}
+Tradespace Exploration, Concept Selection
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A5 (Group)
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary Design Review (PDR) Package and Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz (Individual)
+{{< tdclose >}}
+{{< tdopen >}}
+Written Online Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Exam (Individual)
+{{< tdclose >}}
+{{< tdopen >}}
+20-minute Oral Exam with Instructor and 2-page reflective memorandum
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "one" >}}{{< /anchor >}}1To be fair, the safety record of commercial aviation has improved dramatically since the 1960s.
 
