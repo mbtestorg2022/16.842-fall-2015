@@ -73,7 +73,7 @@ SUPPLEMENTAL FILES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[System Architecture and Concept Generation (PDF - 3.1MB)]({{< baseurl >}}/resources/mti16_842f15_ses4_con_syn)
+[System Architecture and Concept Generation (PDF - 3.1MB)]({{< baseurl >}}/resources/mti16_842f15_ses4_con_syn)
 {{< tdclose >}}
 {{< tdopen >}}
 n/a
@@ -85,7 +85,7 @@ n/a
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Concept Selection and Tradespace Exploration (PDF - 2.0MB)]({{< baseurl >}}/resources/mit16_842f15_ses_5_design)
+[Concept Selection and Tradespace Exploration (PDF - 2.0MB)]({{< baseurl >}}/resources/mit16_842f15_ses_5_design)
 {{< tdclose >}}
 {{< tdopen >}}
 [SE Concept Question 6 (PDF)]({{< baseurl >}}/resources/mit16_842f15_question6)
@@ -109,7 +109,7 @@ n/a
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[MBSE and Introduction to CAD (Guest Lecture from Solidworks) (PDF - 1.9MB)]({{< baseurl >}}/resources/mit16_842f15_ses7mastr_sol)
+[MBSE and Introduction to CAD (Guest Lecture from Solidworks) (PDF - 1.9MB)]({{< baseurl >}}/resources/mit16_842f15_ses7mastr_sol)
 {{< tdclose >}}
 {{< tdopen >}}
  n/a
@@ -133,7 +133,7 @@ n/a
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Verification and Validation (PDF)  
+[Verification and Validation (PDF)  
 ]({{< baseurl >}}/resources/mit16_842f15_ses9_ver)
 {{< tdclose >}}
 {{< tdopen >}}

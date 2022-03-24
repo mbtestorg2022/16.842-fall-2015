@@ -46,7 +46,7 @@ INCOSE. _Systems Engineering Handbook: A Guide for System Life Cycle Processes a
 
 [ISO/IEC/IEEE 15288:2015, Systems and Software Engineering—System Life Cycle Processes](http://www.iso.org/iso/catalogue_detail?csnumber=63711).
 
-Feng, W., E. F. Crawley, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dependency Structure Matrix Modeling for Stakeholder Value Networks." (PDF - 2.3MB)](http://strategic.mit.edu/docs/3_130_DSM_2010-Stakeholder-Networks.pdf) _12th International Dependency and Structure Modeling Conference, DSM'10_ (2010): 22–23.
+Feng, W., E. F. Crawley, et al. "[Dependency Structure Matrix Modeling for Stakeholder Value Networks." (PDF - 2.3MB)](http://strategic.mit.edu/docs/3_130_DSM_2010-Stakeholder-Networks.pdf) _12th International Dependency and Structure Modeling Conference, DSM'10_ (2010): 22–23.
 
 
 {{< tdclose >}}
@@ -120,7 +120,7 @@ Appendix F, pp. 285–92.
 
 Appendix G, pp. 293–8.
 
-Crawley, Edward, Olivier de Weck, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Influence of Architecture in Engineering Systems." (PDF)](http://strategic.mit.edu/docs/architecture-b.pdf) _Engineering Systems Monograph_ (2004): 29–31.
+Crawley, Edward, Olivier de Weck, et al. ["The Influence of Architecture in Engineering Systems." (PDF)](http://strategic.mit.edu/docs/architecture-b.pdf) _Engineering Systems Monograph_ (2004): 29–31.
 
 
 {{< tdclose >}}
@@ -178,7 +178,7 @@ Appendix M, p. 311.
 
 Agte, J., O. de Weck, et al. "[MDO: Assessment and Direction for Advancement—An Opinion of One International Group](http://dx.doi.org/10.1007/s00158-009-0381-5)." _Structural and Multidisciplinary Optimization_ 40, no. 17 (2010): 17–33.
 
-Ivanov, Anton, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Concurrent Design Facility at the Space Center EPFL." (PDF - 2.0MB)](http://infoscience.epfl.ch/record/183798/files/CDFEPFL2010paper.pdf) _Proceedings of 4th International Workshop on System & Concurrent Engineering for Space Applications. no. EPFL-CONF-183798. European Space Agency_, 2010.
+Ivanov, Anton, et al. ["Concurrent Design Facility at the Space Center EPFL." (PDF - 2.0MB)](http://infoscience.epfl.ch/record/183798/files/CDFEPFL2010paper.pdf) _Proceedings of 4th International Workshop on System & Concurrent Engineering for Space Applications. no. EPFL-CONF-183798. European Space Agency_, 2010.
 
 
 {{< tdclose >}}
@@ -204,7 +204,7 @@ MBSE and Introduction to CAD (Guest Lecture from Solidworks)
 
 Section 7.3, pp. 242–5.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Implementation Guide: Navigating the Solidworks User Interface." (PDF)](http://www.javelin-tech.com/main/solutions/pdf/wp_navigating_solidworks_ui.pdf) Technical Paper, v4, Dassault Systèmes, Concord MA.
+["Implementation Guide: Navigating the Solidworks User Interface." (PDF)](http://www.javelin-tech.com/main/solutions/pdf/wp_navigating_solidworks_ui.pdf) Technical Paper, v4, Dassault Systèmes, Concord MA.
 
 
 {{< tdclose >}}
@@ -260,7 +260,7 @@ Appendix E, p. 284.
 
 Appendix I, p. 301.
 
-Leveson, N. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A New Accident Model for Engineering Safer Systems." (PDF)](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf) _Safety Science_ 42, no. 4 (2004).
+Leveson, N. ["A New Accident Model for Engineering Safer Systems." (PDF)](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf) _Safety Science_ 42, no. 4 (2004).
 
 
 {{< tdclose >}}
@@ -298,7 +298,7 @@ Lifecycle Management
 
 [ISO/IEC/IEEE 15288:2015, Systems and Software Engineering—System Life Cycle Processes](http://www.iso.org/iso/catalogue_detail?csnumber=63711).
 
-de Weck, O. L., A. Ross, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Investigating Relationships and Semantic Sets amongst System Lifecycle Properties (Ilities)." (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/102927/esd-wp-2012-12.pdf?sequence=1) _3rd International Engineering Systems Symposium, CESUN_ (2012): 18–20.
+de Weck, O. L., A. Ross, et al. ["Investigating Relationships and Semantic Sets amongst System Lifecycle Properties (Ilities)." (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/102927/esd-wp-2012-12.pdf?sequence=1) _3rd International Engineering Systems Symposium, CESUN_ (2012): 18–20.
 
 
 {{< tdclose >}}
