@@ -4,6 +4,7 @@ description: This resource contains information regarding systems engineering ov
   and stakeholder analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-842-fundamentals-of-systems-engineering-fall-2015/77bb60b877f7a3a5afd4b4e6bb27a36e_MIT16_842F15_Ses1SE_Ovr_vw.pdf
 file_type: application/pdf
+parent_uid: 04410431-3f0c-d892-956c-65f848dd2ede
 resourcetype: Document
 title: 'Fundamentals of Systems Engineering: Systems Engineering Overview and Stakeholder
   Analysis'

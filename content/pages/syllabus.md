@@ -57,7 +57,7 @@ The class consists of five pedagogical elements that are interwoven to maximize 
 4.  **Exams**: There will be two examinations in this class. The first will be a written on-line quiz where students show their understanding of key SE concepts. This exam will be administered about two-thirds through the semester once the bulk of the SE theory has been covered. The quiz will be open-book and open-internet. There will also be a short individual oral examination (20 minutes) at the end of the semester, which will take the form of a general discussion about SE fundamentals and its potential future applications.
 5.  **Design Competition**: Students will prepare a PDR-level design for the 2016 [Cansat Competition](http://www.cansatcompetition.com) through their assignments. The final deliverable will be a 30-minute PDR presentation given as a team. As a result of the final deliverable the three top teams at MIT and EPFL, respectively, will be invited to apply to the actual Cansat 2016 competition, should they choose to do so.
 
-{{< anchor "VModel" >}}{{< /anchor >}}![The MIT 16.842f15 curriculum structure, V-Model](/courses/aeronautics-and-astronautics/16-842-fundamentals-of-systems-engineering-fall-2015/syllabus/16-842f15-figure-1.jpg)
+{{< anchor "VModel" >}}{{< /anchor >}}{{< resource "dfe30f33-7f85-b8ae-2d33-ffc4884c1552" >}}
 
 Fig.1: The structure of the 16.842 / ENG-421 class follows the "V" model. Session numbers are indicated with a number between 1–12. (Courtesy of Prof. Olivier de Weck.)
 
